@@ -12,7 +12,6 @@
  		<BuildPlateforme Condition=" '$(BuildPlateforme)' == '' "> Any CPU </BuildPlateforme>
  </PropertyGroup>
 
-
  <Target Name="Clean">
  		<RemoveDir Directories="@(BuildArtifactsDir)"/>
  </Target>
