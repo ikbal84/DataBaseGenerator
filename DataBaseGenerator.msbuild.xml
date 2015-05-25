@@ -29,7 +29,6 @@
 	<Exec Command="MSTest /testcontainer:@(TestContainer)"/>
 </Target>
 
-
 <Target Name="Echo"> 
 	<Exec command='echo "@(NUnitRunner)" /testcontainer:@(TestContainer) /resultsfile:@(TestResult) /nologo /noisolation' />
 </Target>
