@@ -1,0 +1,7 @@
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\bin\Debug\Bom.dll
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\bin\Debug\Bom.pdb
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\bin\Debug\nunit.framework.dll
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\bin\Debug\nunit.framework.xml
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\obj\Debug\Bom.csprojResolveAssemblyReference.cache
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\obj\Debug\Bom.dll
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\obj\Debug\Bom.pdb

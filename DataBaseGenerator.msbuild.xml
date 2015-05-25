@@ -1,0 +1,38 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="UnitTests">
+ <ItemGroup>
+ 		<BuildArtifactsDir Include="BuildArtifacts\"/>
+ 		<SolutionFile Include="DataBaseGenerator.sln"/>
+ 		<TestRunnerPath Include="C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\"/>
+ 		<TestContainer Include="BuildArtifacts\UnitTest.dll" />
+ 		<TestResult Include="UnitTestsResults.trx"/>
+ </ItemGroup>
+
+ <PropertyGroup>
+ 		<Configuration Condition=" '$(Configuration)' == '' "> Debug </Configuration>
+ 		<BuildPlateforme Condition=" '$(BuildPlateforme)' == '' "> Any CPU </BuildPlateforme>
+ </PropertyGroup>
+
+
+ <Target Name="Clean">
+ 		<RemoveDir Directories="@(BuildArtifactsDir)"/>
+ </Target>
+
+
+ <Target Name="Init" DependsOnTargets="Clean">
+ 		<MakeDir Directories="@(BuildArtifactsDir)"/>
+ </Target>
+
+<Target Name="Compile" DependsOnTargets="Init">
+ 	<MSBuild Projects="@(SolutionFile)" Targets="Rebuild" Properties="OutDir=%(BuildArtifactsDir.FullPath); Configuration=$(Configuration); Platform=$(BuildPlateforme)" />
+ </Target>
+
+ <Target Name="UnitTests" DependsOnTargets="Compile">
+	<Exec Command="MSTest /testcontainer:@(TestContainer)"/>
+</Target>
+
+
+<Target Name="Echo"> 
+	<Exec command='echo "@(NUnitRunner)" /testcontainer:@(TestContainer) /resultsfile:@(TestResult) /nologo /noisolation' />
+</Target>
+
+</Project>

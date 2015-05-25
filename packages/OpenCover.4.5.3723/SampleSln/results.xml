@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Summary numSequencePoints="6" visitedSequencePoints="3" numBranchPoints="6" visitedBranchPoints="2" sequenceCoverage="50" branchCoverage="33.33" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="8E-E0-99-57-5F-F7-A4-02-65-0C-A5-EE-EE-E0-FE-C3-21-02-44-92">
+      <FullName>C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F9-04-A8-31-CD-FB-23-72-95-63-5D-14-9A-A0-66-8E-7F-44-93-7A">
+      <FullName>C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sorttbls.nlp</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="6E-30-2E-50-36-FB-60-2C-8E-50-C0-83-54-8B-CC-EA-A8-91-B6-CC">
+      <FullName>C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sortkey.nlp</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="85-9C-09-19-12-B4-8F-BE-FA-23-59-4D-71-35-85-10-E9-61-17-9E">
+      <FullName>C:\Windows\assembly\GAC_MSIL\mscorlib.resources\2.0.0.0_fr_b77a5c561934e089\mscorlib.resources.dll</FullName>
+      <ModuleName>mscorlib.resources</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="83-8C-77-8E-83-70-96-83-9B-5F-DA-87-40-A5-A5-8A-A4-C0-04-9C">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\nunit-console-x86.exe</FullName>
+      <ModuleName>nunit-console-x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2A-C4-E5-DE-F3-EE-AD-84-E1-65-84-CC-15-90-76-96-E7-01-44-4E">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\lib\nunit-console-runner.dll</FullName>
+      <ModuleName>nunit-console-runner</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="74-74-F6-87-59-E1-5F-4F-5F-5E-6E-82-50-E8-E2-46-D4-86-15-76">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\lib\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="55-BA-A4-A1-F6-E9-77-45-55-59-ED-C2-F7-90-65-6A-E2-0A-F0-D1">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Configuration\2.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="5B-58-14-72-A0-28-85-4B-B5-A1-BA-11-BB-9D-9D-05-65-A3-5E-54">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="06-27-0C-FC-C3-23-F5-AA-2C-D5-FE-4B-08-2E-CE-01-09-7B-2F-D1">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CB-29-2C-91-2E-AE-28-D8-A5-84-C7-B9-DB-F2-0B-51-CC-CD-72-80">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Runtime.Remoting\2.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="88-76-D0-A5-AF-C2-49-BE-83-95-A9-36-26-AB-5C-69-34-38-68-14">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.resources\2.0.0.0_fr_b77a5c561934e089\System.resources.dll</FullName>
+      <ModuleName>System.resources</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="97-C6-7C-EA-E5-E8-93-18-0F-88-E9-64-A7-60-DA-9C-D6-9E-45-21">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="5F-24-CB-C7-2A-89-75-BF-F9-18-42-E9-2D-0B-D9-E3-11-8C-68-2B">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\nunit-agent-x86.exe</FullName>
+      <ModuleName>nunit-agent-x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="74-74-F6-87-59-E1-5F-4F-5F-5E-6E-82-50-E8-E2-46-D4-86-15-76">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\lib\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="04-DF-13-16-0B-F4-57-A9-D9-9C-5A-63-DC-51-CD-BF-FD-3A-AF-DA">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="ED-BE-5C-45-66-32-AB-2E-1E-B4-6F-0D-47-35-C3-3C-95-AA-09-B3">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="3B-FD-DC-EB-D9-C6-34-64-C7-D5-6A-D1-A0-04-93-80-2B-B0-C7-73">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2C-B8-8B-0E-27-14-38-8E-71-A5-1D-A0-EE-33-D9-22-5F-A4-AF-79">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="79-64-3B-9D-84-52-A8-B9-D1-39-91-DD-BC-F1-89-A6-5C-44-55-D4">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A0-DB-04-6A-C0-30-DF-0D-03-D3-79-7B-95-DB-86-60-21-70-6C-41">
+      <FullName>C:\Windows\assembly\GAC_32\System.Web\2.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="33-E1-CA-24-52-5A-B7-C7-C4-AF-91-2C-A9-4A-C0-37-67-0D-5B-FE">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="04-DF-13-16-0B-F4-57-A9-D9-9C-5A-63-DC-51-CD-BF-FD-3A-AF-DA">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2C-B8-8B-0E-27-14-38-8E-71-A5-1D-A0-EE-33-D9-22-5F-A4-AF-79">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B6-96-0F-77-90-5D-5D-2F-9A-F2-9F-C4-E5-75-AD-9C-ED-57-F3-17">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\pnunit.framework.dll</FullName>
+      <ModuleName>pnunit.framework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="BF-1D-D7-35-9F-DE-AD-6C-C5-85-0E-59-71-C4-80-76-13-06-73-54">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\pnunit-agent.exe</FullName>
+      <ModuleName>pnunit-agent</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D3-A4-4D-85-55-F7-CE-EF-A5-90-AA-EF-58-E0-9F-B6-CC-27-99-53">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="4B-86-C0-6C-00-C6-73-2A-E5-45-67-8B-8C-40-83-60-8D-AD-72-CB">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\BomTest\bin\Debug\BomTest.dll</FullName>
+      <ModuleName>BomTest</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="42-83-FE-A6-9F-01-8E-2C-E8-41-E9-25-3E-1E-0D-99-81-76-6B-C9">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\BomTest\bin\Debug\nunit.framework.dll</FullName>
+      <ModuleName>nunit.framework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2A-C4-E5-DE-F3-EE-AD-84-E1-65-84-CC-15-90-76-96-E7-01-44-4E">
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\NUnit.Runners.2.6.3\tools\lib\nunit-console-runner.dll</FullName>
+      <ModuleName>nunit-console-runner</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="ED-BE-5C-45-66-32-AB-2E-1E-B4-6F-0D-47-35-C3-3C-95-AA-09-B3">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="3B-FD-DC-EB-D9-C6-34-64-C7-D5-6A-D1-A0-04-93-80-2B-B0-C7-73">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="F4-CA-01-7A-E4-20-88-F3-67-BA-15-35-DD-B4-55-97-DD-EF-EB-B1">
+      <Summary numSequencePoints="6" visitedSequencePoints="3" numBranchPoints="6" visitedBranchPoints="2" sequenceCoverage="50" branchCoverage="33.33" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+      <FullName>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\BomTest\bin\Debug\Bom.dll</FullName>
+      <ModuleName>Bom</ModuleName>
+      <Files>
+        <File uid="1" fullPath="c:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\BomMan.cs" />
+        <File uid="2" fullPath="c:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\BomManager.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" />
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+          <FullName>Bom.BomMan</FullName>
+          <Methods>
+            <Method visited="false" cyclomaticComplexity="2" sequenceCoverage="0" branchCoverage="0" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" />
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Int32 Bom.BomMan::MethodToTest(System.Collections.Generic.IEnumerable`1&lt;System.Int32&gt;)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="0" uspid="1" ordinal="0" offset="0" sl="13" sc="9" el="13" ec="10" bec="0" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="2" ordinal="1" offset="1" sl="14" sc="13" el="14" ec="53" bec="2" bev="0" fileid="1" />
+                <SequencePoint vc="0" uspid="3" ordinal="2" offset="25" sl="15" sc="9" el="15" ec="10" bec="0" bev="0" fileid="1" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="4" ordinal="0" offset="3" sl="14" path="0" offsetend="5" fileid="1" />
+                <BranchPoint vc="0" uspid="5" ordinal="1" offset="3" sl="14" path="1" offsetend="17" fileid="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="0" uspid="1" ordinal="0" offset="0" sl="13" sc="9" el="13" ec="10" bec="0" bev="0" fileid="1" />
+            </Method>
+            <Method visited="false" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Void Bom.BomMan::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="0" uspid="6" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+        <Class>
+          <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="3" visitedBranchPoints="2" sequenceCoverage="100" branchCoverage="66.67" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" />
+          <FullName>Bom.BomManager</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="2" sequenceCoverage="100" branchCoverage="66.67" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="3" visitedSequencePoints="3" numBranchPoints="3" visitedBranchPoints="2" sequenceCoverage="100" branchCoverage="66.67" maxCyclomaticComplexity="2" minCyclomaticComplexity="2" />
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Int32 Bom.BomManager::MethodToTest(System.Collections.Generic.IEnumerable`1&lt;System.Int32&gt;)</Name>
+              <FileRef uid="2" />
+              <SequencePoints>
+                <SequencePoint vc="1" uspid="7" ordinal="0" offset="0" sl="13" sc="9" el="13" ec="10" bec="0" bev="0" fileid="2" />
+                <SequencePoint vc="1" uspid="8" ordinal="1" offset="1" sl="14" sc="13" el="14" ec="53" bec="2" bev="1" fileid="2" />
+                <SequencePoint vc="1" uspid="9" ordinal="2" offset="25" sl="15" sc="9" el="15" ec="10" bec="0" bev="0" fileid="2" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="10" ordinal="0" offset="3" sl="14" path="0" offsetend="5" fileid="2" />
+                <BranchPoint vc="1" uspid="11" ordinal="1" offset="3" sl="14" path="1" offsetend="17" fileid="2" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="1" uspid="7" ordinal="0" offset="0" sl="13" sc="9" el="13" ec="10" bec="0" bev="0" fileid="2" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="0" branchCoverage="0" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" />
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Void Bom.BomManager::.ctor()</Name>
+              <SequencePoints />
+              <BranchPoints />
+              <MethodPoint vc="1" uspid="12" ordinal="0" offset="0" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+    <Module skippedDueTo="Filter" hash="79-A8-94-78-12-5A-20-71-0A-77-F6-BF-44-4F-76-CD-EE-98-04-1B">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</FullName>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>

@@ -1,0 +1,9 @@
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\UnitTest\bin\Debug\DataBaseGenerator.exe
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\UnitTest\bin\Debug\DataBaseGenerator.pdb
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\BuildArtifacts\UnitTest.dll
+C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\BuildArtifacts\UnitTest.pdb

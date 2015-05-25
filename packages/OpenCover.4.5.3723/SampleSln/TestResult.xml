@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\BomTest\bin\Debug\BomTest.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-05-19" time="16:22:50">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln" machine-name="IKBAL" user="Moh" user-domain="IKBAL" />
+  <culture-info current-culture="fr-FR" current-uiculture="fr-FR" />
+  <test-suite type="Assembly" name="C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\BomTest\bin\Debug\BomTest.dll" executed="True" result="Success" success="True" time="0.381" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="BomTest" executed="True" result="Success" success="True" time="0.375" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="BomManagerTests" executed="True" result="Success" success="True" time="0.375" asserts="0">
+            <results>
+              <test-case name="BomTest.BomManagerTests.Sum_Is_Zero_When_No_Entries" executed="True" result="Success" success="True" time="0.369" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

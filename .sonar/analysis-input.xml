@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalysisInput>
+  <Settings>
+    <Setting>
+      <Key>sonar.cs.ignoreHeaderComments</Key>
+      <Value>true</Value>
+    </Setting>
+  </Settings>
+  <Rules>
+    <Rule>
+      <Key>S1481</Key>
+    </Rule>
+    <Rule>
+      <Key>S1226</Key>
+    </Rule>
+    <Rule>
+      <Key>S1227</Key>
+    </Rule>
+    <Rule>
+      <Key>S1109</Key>
+    </Rule>
+    <Rule>
+      <Key>S2737</Key>
+    </Rule>
+    <Rule>
+      <Key>S1848</Key>
+    </Rule>
+    <Rule>
+      <Key>S100</Key>
+      <Parameters>
+        <Parameter>
+          <Key>format</Key>
+          <Value>^[A-Z][a-zA-Z0-9]+$</Value>
+        </Parameter>
+      </Parameters>
+    </Rule>
+    <Rule>
+      <Key>S1186</Key>
+    </Rule>
+    <Rule>
+      <Key>S101</Key>
+      <Parameters>
+        <Parameter>
+          <Key>format</Key>
+          <Value>^(?:[A-HJ-Z][a-zA-Z0-9]+|I[a-z0-9][a-zA-Z0-9]*)$</Value>
+        </Parameter>
+      </Parameters>
+    </Rule>
+    <Rule>
+      <Key>S1121</Key>
+    </Rule>
+    <Rule>
+      <Key>S121</Key>
+    </Rule>
+    <Rule>
+      <Key>S1067</Key>
+      <Parameters>
+        <Parameter>
+          <Key>max</Key>
+          <Value>3</Value>
+        </Parameter>
+      </Parameters>
+    </Rule>
+    <Rule>
+      <Key>S1145</Key>
+    </Rule>
+    <Rule>
+      <Key>S1541</Key>
+      <Parameters>
+        <Parameter>
+          <Key>maximumFunctionComplexityThreshold</Key>
+          <Value>10</Value>
+        </Parameter>
+      </Parameters>
+    </Rule>
+    <Rule>
+      <Key>S1301</Key>
+    </Rule>
+    <Rule>
+      <Key>S1862</Key>
+    </Rule>
+    <Rule>
+      <Key>S1125</Key>
+    </Rule>
+    <Rule>
+      <Key>S1764</Key>
+    </Rule>
+    <Rule>
+      <Key>S108</Key>
+    </Rule>
+    <Rule>
+      <Key>S109</Key>
+      <Parameters>
+        <Parameter>
+          <Key>exceptions</Key>
+          <Value>0,1,0x0,0x00,.0,.1,0.0,1.0</Value>
+        </Parameter>
+      </Parameters>
+    </Rule>
+    <Rule>
+      <Key>S107</Key>
+      <Parameters>
+        <Parameter>
+          <Key>max</Key>
+          <Value>7</Value>
+        </Parameter>
+      </Parameters>
+    </Rule>
+    <Rule>
+      <Key>S126</Key>
+    </Rule>
+    <Rule>
+      <Key>S104</Key>
+      <Parameters>
+        <Parameter>
+          <Key>maximumFileLocThreshold</Key>
+          <Value>1000</Value>
+        </Parameter>
+      </Parameters>
+    </Rule>
+    <Rule>
+      <Key>S127</Key>
+    </Rule>
+    <Rule>
+      <Key>S105</Key>
+    </Rule>
+    <Rule>
+      <Key>S125</Key>
+    </Rule>
+    <Rule>
+      <Key>S103</Key>
+      <Parameters>
+        <Parameter>
+          <Key>maximumLineLength</Key>
+          <Value>200</Value>
+        </Parameter>
+      </Parameters>
+    </Rule>
+    <Rule>
+      <Key>S1116</Key>
+    </Rule>
+    <Rule>
+      <Key>S1479</Key>
+      <Parameters>
+        <Parameter>
+          <Key>maximum</Key>
+          <Value>30</Value>
+        </Parameter>
+      </Parameters>
+    </Rule>
+    <Rule>
+      <Key>S1656</Key>
+    </Rule>
+    <Rule>
+      <Key>S2306</Key>
+    </Rule>
+    <Rule>
+      <Key>S2681</Key>
+    </Rule>
+    <Rule>
+      <Key>S2486</Key>
+    </Rule>
+    <Rule>
+      <Key>S131</Key>
+    </Rule>
+    <Rule>
+      <Key>S1871</Key>
+    </Rule>
+    <Rule>
+      <Key>S1994</Key>
+    </Rule>
+    <Rule>
+      <Key>S1697</Key>
+    </Rule>
+    <Rule>
+      <Key>S2743</Key>
+    </Rule>
+  </Rules>
+  <Files>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\App.xaml.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\DbGenerator.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\GenerationMode.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\MainWindow.xaml.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\ModelObject.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\Properties.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\Properties\AssemblyInfo.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\Properties\Resources.Designer.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\Properties\Settings.Designer.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\XmlParser.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\obj\Debug\App.g.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\obj\Debug\App.g.i.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\obj\Debug\MainWindow.g.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\obj\Debug\MainWindow.g.i.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\DataBaseGenerator\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\UnitTest\Properties\AssemblyInfo.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\UnitTest\UnitTest1.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\UnitTest\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\UnitTest\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\UnitTest\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\BomMan.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\BomManager.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\Properties\AssemblyInfo.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\Bom\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\BomTest\BomManagerTests.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\BomTest\Properties\AssemblyInfo.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\BomTest\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\BomTest\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\BomTest\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\OpenCover.4.5.3723\SampleSln\Bom\BomManager.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\OpenCover.4.5.3723\SampleSln\Bom\Properties\AssemblyInfo.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\OpenCover.4.5.3723\SampleSln\BomTest\BomManagerTests.cs</File>
+    <File>C:\Users\Moh\Documents\Visual Studio 2013\Projects\DataBaseGenerator\packages\OpenCover.4.5.3723\SampleSln\packages\OpenCover.4.5.3723\SampleSln\BomTest\Properties\AssemblyInfo.cs</File>
+  </Files>
+</AnalysisInput>
